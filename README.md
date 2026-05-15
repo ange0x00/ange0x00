@@ -1,16 +1,25 @@
-## Hi there 👋
+# Salut, moi c'est Ange 👋
 
-<!--
-**ange0x00/ange0x00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur passionné par la cybersécurité et le Red Teaming.
 
-Here are some ideas to get you started:
+## Technologies
+- Python
+- JavaScript
+- Linux
+- Bash
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## En apprentissage
+- Pentest Web
+- Active Directory
+- OSINT
+- Reverse Engineering
+
+## Projets
+- Scripts Python
+- Outils de sécurité
+- Labs CTF
+- Automatisation Linux
+
+## Contact
+- Email : angegnakoury0@gmail.com
